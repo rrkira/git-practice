@@ -1,0 +1,83 @@
+body {
+    font-family: 'Chiron GoRound TC', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+.container {
+    width: 800px;
+    margin: 40px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.title {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.photo {
+    text-align: center;
+}
+
+.photo img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.section-title {
+    color: #333;
+    margin-top: 20px;
+}
+
+.skills {
+    line-height: 1.8;
+}
+
+.navigation {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navigation a {
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(113, 153, 120);
+    font-weight: bold;
+}
+
+.navigation a:hover {
+    color: rgb(224, 54, 173);
+}
+
+.contacts {
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.gallery-table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.gallery-item {
+    text-align: center;
+    padding: 15px;
+}
+
+.gallery-item img {
+    width: 200px;
+    border-radius: 10px;
+}
